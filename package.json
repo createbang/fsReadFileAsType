@@ -1,0 +1,19 @@
+{
+  "name": "fsreadfileastype",
+  "version": "0.0.1",
+  "description": "Parse the contents of files as JavaScript objects.",
+  "author": {
+    "name": "Michael Phillips"
+  },
+  "dependencies": {
+    "underscore": "1.5.2",
+    "shellvarparser": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/createbang/fsReadFileAsType.git"
+  },
+  "bugs": {
+    "url": "https://github.com/createbang/fsReadFileAsType/issues"
+  }
+}
