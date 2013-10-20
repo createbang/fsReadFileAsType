@@ -1,6 +1,8 @@
 fsReadFileAsType
 ==============
 
+![Build Status](https://travis-ci.org/createbang/fsReadFileAsType.png)
+
 Parse the contents of files as JavaScript objects.
 
 .env file
