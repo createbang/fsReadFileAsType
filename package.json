@@ -1,6 +1,6 @@
 {
   "name": "fsreadfileastype",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Parse the contents of files as JavaScript objects.",
   "author": {
     "name": "Michael Phillips"
@@ -8,7 +8,7 @@
   "main": "lib/fsreadfileastype.js",
   "dependencies": {
     "underscore": "1.5.2",
-    "shellvarparser": "0.0.2"
+    "shellvarparser": "0.0.3"
   },
   "devDependencies": {
     "mocha": "",
